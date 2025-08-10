@@ -13,6 +13,7 @@ This web app has been developed using the popular Django framework and Bootstrap
 * Admin Panel – admin can CRUD users
 
 check running folder for screenshots and working video
+star this if it was helpful
 
 ### Quick Start
 To get this project up and running locally on your computer follow the following steps.
